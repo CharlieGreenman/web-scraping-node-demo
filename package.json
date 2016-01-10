@@ -1,0 +1,14 @@
+{
+  "name": "web-scraping-with-xray",
+  "version": "1.0.0",
+  "description": "web scraping using xray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlie Greenman",
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "^2.0.3"
+  }
+}

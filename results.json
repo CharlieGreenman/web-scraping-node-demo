@@ -1,0 +1,2721 @@
+[
+
+  {
+    "projectName": "redux",
+    "title": "\n      Predictable state container for JavaScript apps\n    "
+  },
+  {
+    "projectName": "Redux",
+    "title": "\n      Swift implementation of Redux.\n    "
+  },
+  {
+    "projectName": "redux",
+    "title": "\n      A Clojure library of reducing combinators\n    "
+  },
+  {
+    "projectName": "remux",
+    "title": "\n      Placeholder for Redux riff with Transactions and Rollback\n    "
+  },
+  {
+    "projectName": "redux2",
+    "title": "\n      Redux2 be a front-end architecture toolkit, is based on redux & react.\n    "
+  },
+  {
+    "projectName": "redix",
+    "title": "\n      Superfast, pipelined, resilient Redis driver for Elixir.\n    "
+  },
+  {
+    "projectName": "redox",
+    "title": "\n      A library implementing the bittorrent protocol and a few key extensions.\n    "
+  },
+  {
+    "projectName": "redub",
+    "title": "\n      Redundant pub/sub\n    "
+  },
+  {
+    "projectName": "redix",
+    "title": "\n      QT GUI for Redis Beta\n    "
+  },
+  {
+    "projectName": "redun",
+    "title": "\n      A Gulp task generator to help keep your task definitions DRY.\n    "
+  },
+  {
+    "projectName": "renux",
+    "title": "\n      express-like react flux implementation\n    "
+  },
+  {
+    "projectName": "redux-logger",
+    "title": "\n      Logger for redux\n    "
+  },
+  {
+    "projectName": "react-redux",
+    "title": "\n      Official React bindings for Redux\n    "
+  },
+  {
+    "projectName": "redux-thunk",
+    "title": "\n      Thunk middleware for Redux.\n    "
+  },
+  {
+    "projectName": "redux-devtools",
+    "title": "\n      Redux DevTools with hot reloading and time travel\n    "
+  },
+  {
+    "projectName": "redux-router",
+    "title": "\n      Redux bindings for React Router — keep your router state inside your Redux Store.\n    "
+  },
+  {
+    "projectName": "redox",
+    "title": "\n      JavaScript RegExp based doc generator\n    "
+  },
+  {
+    "projectName": "redux-falcor",
+    "title": "\n      A helper library for integratig Redux & Falcor\n    "
+  },
+  {
+    "projectName": "redu",
+    "title": "\n      Use Redu to find culprits and bad memory usage in your Redis installation\n    "
+  },
+  {
+    "projectName": "redux-undo",
+    "title": "\n      simple undo/redo functionality for redux state containers\n    "
+  },
+  {
+    "projectName": "redux-storage",
+    "title": "\n      Persistence layer for redux with flexible backends\n    "
+  },
+  {
+    "projectName": "redux-search",
+    "title": "\n      Redux bindings for client-side search\n    "
+  },
+  {
+    "projectName": "redux-chaos",
+    "title": "\n      Dead simple chaos/property testing\n    "
+  },
+  {
+    "projectName": "redux-crud",
+    "title": "\n      Redux CRUD\n    "
+  },
+  {
+    "projectName": "redux-effects",
+    "title": "\n      You write pure functions, redux-effects handles the rest.\n    "
+  },
+  {
+    "projectName": "redux-resource",
+    "title": "\n      Easily create redux actions for managing server resources\n    "
+  },
+  {
+    "projectName": "redux-await",
+    "title": "\n      Manage async redux actions sanely\n    "
+  },
+  {
+    "projectName": "redux-act",
+    "title": "\n      An opinionated lib to create actions and reducers for Redux\n    "
+  },
+  {
+    "projectName": "redux-ignore",
+    "title": "\n      higher-order reducer to ignore redux actions\n    "
+  },
+  {
+    "projectName": "redux-actions",
+    "title": "\n      Flux Standard Action utlities for Redux\n    "
+  }
+,
+  {
+    "projectName": "redux-saga",
+    "title": "\n      Saga middleware for Redux to handle Side Effects\n    "
+  },
+  {
+    "projectName": "generator-redux",
+    "title": "\n      CLI for Redux: next-gen functional Flux/React with devtools\n    "
+  },
+  {
+    "projectName": "redux-requests",
+    "title": "\n      Manages in-flight requests with a Redux reducer - avoid issuing duplicate requests without any sp...\n    "
+  },
+  {
+    "projectName": "redux-promise",
+    "title": "\n      FSA-compliant promise middleware for Redux.\n    "
+  },
+  {
+    "projectName": "redux-orm",
+    "title": "\n      Simple ORM to manage and query your state trees\n    "
+  },
+  {
+    "projectName": "redux-tcomb",
+    "title": "\n      Immutable and type-checked state and actions for Redux\n    "
+  },
+  {
+    "projectName": "redux-async",
+    "title": "\n      dispatch async actions in redux\n    "
+  },
+  {
+    "projectName": "deku-redux",
+    "title": "\n      Redux bindings for deku\n    "
+  },
+  {
+    "projectName": "redux-form",
+    "title": "\n      A higher order component decorator for forms using Redux and React\n    "
+  },
+  {
+    "projectName": "learn-redux",
+    "title": "\n      redux makes sense. learn it.\n    "
+  },
+  {
+    "projectName": "redux-cropper",
+    "title": "\n      My supreme module\n    "
+  },
+  {
+    "projectName": "redux-routing",
+    "title": "\n      Universal routing built on top of redux\n    "
+  },
+  {
+    "projectName": "redux-pouchdb",
+    "title": "\n      sync store state to pouchdb\n    "
+  },
+  {
+    "projectName": "redux-pouch",
+    "title": "\n      PouchDB backed redux\n    "
+  },
+  {
+    "projectName": "redux-debug",
+    "title": "\n      debug() as redux middleware\n    "
+  },
+  {
+    "projectName": "redux-reroute",
+    "title": "\n      Location reducer and routing helpers for redux\n    "
+  },
+  {
+    "projectName": "redux-theme",
+    "title": "\n      Theme and Styles provider for Redux\n    "
+  },
+  {
+    "projectName": "parse-redux",
+    "title": "\n      The Parse JavaScript SDK\n    "
+  },
+  {
+    "projectName": "vue-redux",
+    "title": "\n      Vue.js mixins for Redux\n    "
+  },
+  {
+    "projectName": "redux-recycle",
+    "title": "\n      higher-order reducer to reset the redux state on certain actions\n    "
+  },
+  {
+    "projectName": "redux-authentication",
+    "title": "\n      authentication component for redux\n    "
+  },
+  {
+    "projectName": "redux-router5",
+    "title": "\n      Router5 integration with redux\n    "
+  },
+  {
+    "projectName": "rx-redux",
+    "title": "\n      Reimplement redux using rxjs\n    "
+  },
+  {
+    "projectName": "redux-debounce",
+    "title": "\n      A middleware for Redux to debounce actions.\n    "
+  },
+  {
+    "projectName": "backbone-redux",
+    "title": "\n      Easy way to keep your backbone collections and redux store in sync\n    "
+  },
+  {
+    "projectName": "redui",
+    "title": "\n      Javascript UI Framework for Single Page Applications.\n    "
+  },
+  {
+    "projectName": "pouch-redux",
+    "title": "\n      a few helpers to get pouch and redux to work together\n    "
+  },
+  {
+    "projectName": "redux-core",
+    "title": "\n      Redux core\n    "
+  },
+  {
+    "projectName": "slush-redux",
+    "title": "\n      Slush generator for redux projects, based on react-redux-starter-kit\n    "
+  },
+  {
+    "projectName": "redux-loader",
+    "title": "\n      Loader component for Redux\n    "
+  }
+,
+  {
+    "projectName": "redux-via",
+    "title": "\n      Redux via stuff\n    "
+  },
+  {
+    "projectName": "redux-history",
+    "title": "\n      Connect history to redux.\n    "
+  },
+  {
+    "projectName": "redux-apis",
+    "title": "\n      Helpers to create Redux-aware API's\n    "
+  },
+  {
+    "projectName": "redux-simple-router",
+    "title": "\n      Ruthlessly simple bindings to keep react-router and redux in sync\n    "
+  },
+  {
+    "projectName": "redux-ui",
+    "title": "\n      UI state management for Redux and React\n    "
+  },
+  {
+    "projectName": "redux-tooltip",
+    "title": "\n      A tooltip React component for Redux\n    "
+  },
+  {
+    "projectName": "redux-scaffold",
+    "title": "\n      An npm module to create quick redux components\n    "
+  },
+  {
+    "projectName": "redux-delay",
+    "title": "\n      delay redux actions (middleware)\n    "
+  },
+  {
+    "projectName": "redux-action",
+    "title": "\n      redux action utils\n    "
+  },
+  {
+    "projectName": "redux-pagan",
+    "title": "\n      redux binding for react-pagan internationalization module\n    "
+  },
+  {
+    "projectName": "redux-validator",
+    "title": "\n      Action parameter validator middleware for redux\n    "
+  },
+  {
+    "projectName": "redux-remotes",
+    "title": "\n      Remotes\n    "
+  },
+  {
+    "projectName": "redux-toolkit",
+    "title": "\n      supply useful utils for redux\n    "
+  },
+  {
+    "projectName": "redux-observer",
+    "title": "\n      Redux middleware for observing state change\n    "
+  },
+  {
+    "projectName": "redux-firebase",
+    "title": "\n      Declarative firebase queries for redux.\n    "
+  },
+  {
+    "projectName": "redux-starter",
+    "title": "\n      Redux starter module for Kik\n    "
+  },
+  {
+    "projectName": "redux-lambda",
+    "title": "\n      Redux middleware for AWS Lambda\n    "
+  },
+  {
+    "projectName": "angular2-redux",
+    "title": "\n      Wrapper components for using Redux in an Angular2 application\n    "
+  },
+  {
+    "projectName": "redux-component",
+    "title": "\n      Create stateful React Component using goodness from redux\n    "
+  },
+  {
+    "projectName": "modular-redux",
+    "title": "\n      A small plugin for Redux to allow allow modules to register their own reducers and action types.\n    "
+  },
+  {
+    "projectName": "redux-lunr",
+    "title": "\n      Lunr.js as middleware for Redux\n    "
+  },
+  {
+    "projectName": "redux-entities",
+    "title": "\n      Higher-order reducer for store entities received from gaearon's normalizr and makes it easy to ha...\n    "
+  },
+  {
+    "projectName": "twiliojs-redux",
+    "title": "\n      Twiliojs middleware for Redux\n    "
+  },
+  {
+    "projectName": "redux-next",
+    "title": "\n      recurse redux actions (middleware)\n    "
+  },
+  {
+    "projectName": "redux-freeze",
+    "title": "\n      Redux middleware that freezes state from being mutated anywhere in the app\n    "
+  },
+  {
+    "projectName": "redux-future",
+    "title": "\n      FSA-compliant future monad middleware for redux\n    "
+  },
+  {
+    "projectName": "redux-formo",
+    "title": "\n      An alternate forms framework for Redux+React.\n    "
+  },
+  {
+    "projectName": "redux-devtools-log-monitor",
+    "title": "\n      The default tree view monitor for Redux DevTools\n    "
+  },
+  {
+    "projectName": "redux-devtools-dock-monitor",
+    "title": "\n      A resizable and movable dock for Redux DevTools monitors\n    "
+  },
+  {
+    "projectName": "redux-portal",
+    "title": "\n      A portal that uses Redux\n    "
+  }
+,
+  {
+    "projectName": "redux-cache",
+    "title": "\n      Higher order cache reducer\n    "
+  },
+  {
+    "projectName": "redux-notif",
+    "title": "\n      Redux & React based Notifications center\n    "
+  },
+  {
+    "projectName": "ng-redux",
+    "title": "\n      Angular bindings for Redux\n    "
+  },
+  {
+    "projectName": "redux-register",
+    "title": "\n      It is a Redux enhancer for register reducer by namespace.\n    "
+  },
+  {
+    "projectName": "redux-shortcuts",
+    "title": "\n      Keyboard shortcuts in Redux\n    "
+  },
+  {
+    "projectName": "redux-widgets",
+    "title": "\n      redux wrappers for react widgets\n    "
+  },
+  {
+    "projectName": "riot-redux",
+    "title": "\n      Riot bindings for redux\n    "
+  },
+  {
+    "projectName": "redux-owl",
+    "title": "\n      Redux Network One Way Links\n    "
+  },
+  {
+    "projectName": "redux-multiplex",
+    "title": "\n      Provides a higher-order reducer for managing multiple instances of the same redux state subtree.\n    "
+  },
+  {
+    "projectName": "redux-ws",
+    "title": "\n      Redux middleware for WebSockets communication.\n    "
+  },
+  {
+    "projectName": "redux-alerts",
+    "title": "\n      An alert queue for React applications powered by redux\n    "
+  },
+  {
+    "projectName": "redux-socket.io",
+    "title": "\n      An opinionated connector between socket.io and redux\n    "
+  },
+  {
+    "projectName": "redux-title",
+    "title": "\n      Synchronization of document title and redux state\n    "
+  },
+  {
+    "projectName": "redux-immutable",
+    "title": "\n      Streamlines use of Immutable.js with Redux reducers.\n    "
+  },
+  {
+    "projectName": "redux-replicate",
+    "title": "\n      Store enhancer for `redux` designed to easily replicate stores before and/or after `dispatch`.\n    "
+  },
+  {
+    "projectName": "redux-bacon",
+    "title": "\n      Utilities for attaching Bacon.js to Redux\n    "
+  },
+  {
+    "projectName": "redux-conduct",
+    "title": "\n      Redux Conduct\n    "
+  },
+  {
+    "projectName": "redux-paginate",
+    "title": "\n      Redux reducer for pagination. Should be used w/ normalizr\n    "
+  },
+  {
+    "projectName": "redux-socket",
+    "title": "\n      redux socket request-response middleware\n    "
+  },
+  {
+    "projectName": "redux-notify",
+    "title": "\n      Notify when specified redux actions are dispatched.\n    "
+  },
+  {
+    "projectName": "redux-namespace",
+    "title": "\n      Namespace your component state in your Redux store\n    "
+  },
+  {
+    "projectName": "redux-ducks",
+    "title": "\n      Redux toolset for isolating state as defined by ducks-modular-redux proposal.\n    "
+  },
+  {
+    "projectName": "chopped-redux",
+    "title": "\n      An implementation of @gaearon Redux\n    "
+  },
+  {
+    "projectName": "redux-string",
+    "title": "\n      Allow dispatching of a string as action-type\n    "
+  },
+  {
+    "projectName": "redux-promise-middleware",
+    "title": "\n      Redux middleware for handling promises\n    "
+  },
+  {
+    "projectName": "redux-either",
+    "title": "\n      FSA-compliant either monad middleware for redux\n    "
+  },
+  {
+    "projectName": "persistent-redux",
+    "title": "\n      Persist your Redux state with PouchDB\n    "
+  },
+  {
+    "projectName": "redux-grout",
+    "title": "\n      Redux tools for Grout library.\n    "
+  },
+  {
+    "projectName": "redux-nest",
+    "title": "\n      Redux middleware for wrapping store in a Proxy to help with complex nested states.\n    "
+  },
+  {
+    "projectName": "redux-validations",
+    "title": "\n      Validations for React components using Redux and higer order component decorators\n    "
+  }
+,
+  {
+    "projectName": "redux-persist",
+    "title": "\n      persist and rehydrate redux stores\n    "
+  },
+  {
+    "projectName": "redux-segment",
+    "title": "\n      Segment.io analytics integration for redux.\n    "
+  },
+  {
+    "projectName": "redux-react-router",
+    "title": "\n      Redux bindings for React Router — keep your router state inside your Redux Store.\n    "
+  },
+  {
+    "projectName": "redux-store",
+    "title": "\n      a redux all-in-one class for actions, stores, and state\n    "
+  },
+  {
+    "projectName": "redux-fetch",
+    "title": "\n      Declarative data-fetching for redux\n    "
+  },
+  {
+    "projectName": "redux-batch",
+    "title": "\n      Provides a redux middleware for batch processing of promises through generators.\n    "
+  },
+  {
+    "projectName": "redux-signals",
+    "title": "\n      A redux middleware that allows the creation of 'signal' actions that don't have reducers of their...\n    "
+  },
+  {
+    "projectName": "redux-modal",
+    "title": "\n      Reusable Redux reducer and actions for modals\n    "
+  },
+  {
+    "projectName": "redux-save",
+    "title": "\n      merge in styling with ajax requests in redux\n    "
+  },
+  {
+    "projectName": "redux-loopback",
+    "title": "\n      Loopback middleware for redux\n    "
+  },
+  {
+    "projectName": "redux-matter",
+    "title": "\n      Redux tools for matter.\n    "
+  },
+  {
+    "projectName": "redux-filter",
+    "title": "\n      Higher order react component for filtering collections\n    "
+  },
+  {
+    "projectName": "redux-log-errors",
+    "title": "\n      redux store enhancer to log errors while dispatching\n    "
+  },
+  {
+    "projectName": "redux-io",
+    "title": "\n      FSA-compliant io monad middleware for redux\n    "
+  },
+  {
+    "projectName": "redux-promises",
+    "title": "\n      Promise based middleware for Redux to deal with asynchronous actions.\n    "
+  },
+  {
+    "projectName": "redux-mixpanel",
+    "title": "\n      Middleware for saving actions that will be dispatched to mixpanel.\n    "
+  },
+  {
+    "projectName": "redux-diff-logger",
+    "title": "\n      Diff logger between states for redux\n    "
+  },
+  {
+    "projectName": "redux-rx",
+    "title": "\n      RxJS utilities for Redux\n    "
+  },
+  {
+    "projectName": "react-redux-provide",
+    "title": "\n      Wrap components with a smart component and later assign providers (i.e., stores and action creato...\n    "
+  },
+  {
+    "projectName": "reduxible",
+    "title": "\n      The universal (isomorphic) framework for redux applications\n    "
+  },
+  {
+    "projectName": "universal-redux",
+    "title": "\n      A universal redux renderer (ES6, Webpack, Express)\n    "
+  },
+  {
+    "projectName": "redux-watch",
+    "title": "\n      Watch Redux state for changes.\n    "
+  },
+  {
+    "projectName": "redux-promise-middleware-fork",
+    "title": "\n      Redux middleware for handling promises\n    "
+  },
+  {
+    "projectName": "redux-normalizr-middleware",
+    "title": "\n      Combines redux middleware and normalizr to make flattening nested data a snap\n    "
+  },
+  {
+    "projectName": "redux-persist-crosstab",
+    "title": "\n      Add cross tab syncing to your [redux](https://github.com/gaearon/redux) app with 1 line. This tin...\n    "
+  },
+  {
+    "projectName": "redux-api-middleware",
+    "title": "\n      Redux middleware for calling an API.\n    "
+  },
+  {
+    "projectName": "redux-effects-fetch",
+    "title": "\n      Declarative data-fetching for redux\n    "
+  },
+  {
+    "projectName": "redux-batched-subscribe",
+    "title": "\n      redux store enhancer which allows batching subscribe notifications.\n    "
+  },
+  {
+    "projectName": "redux-catch-promise",
+    "title": "\n      Catch-promise middleware for Redux\n    "
+  },
+  {
+    "projectName": "redux-electron-store",
+    "title": "\n      Redux store which synchronizes between instances in multiple process\n    "
+  }
+,
+  {
+    "projectName": "redux-devtools-chart-monitor",
+    "title": "\n      Chart monitor for Redux DevTools\n    "
+  },
+  {
+    "projectName": "riot-redux-mixin",
+    "title": "\n      A riot mixin connecting tags to your redux store\n    "
+  },
+  {
+    "projectName": "redux-action-types",
+    "title": "\n      Shortcut for creating redux action constants.\n    "
+  },
+  {
+    "projectName": "redux-combine-actions",
+    "title": "\n      Redux middleware for combining actions\n    "
+  },
+  {
+    "projectName": "redux-devtools-gentest-plugin",
+    "title": "\n      Generate mocha like tests from redux-devtools session\n    "
+  },
+  {
+    "projectName": "redux-devtools-bubbles-monitor",
+    "title": "\n      Toastr notifications of redux actions\n    "
+  },
+  {
+    "projectName": "redux-universal-renderer",
+    "title": "\n      A universal redux renderer (ES6, Webpack, Express)\n    "
+  },
+  {
+    "projectName": "redux-2way-binding",
+    "title": "\n      2 ways binding with redux & react & immutable\n    "
+  },
+  {
+    "projectName": "redux-tiny-router",
+    "title": "\n      A Router made for Redux and made for universal apps! stop using the router as a controller... its...\n    "
+  },
+  {
+    "projectName": "redux-throttle-actions",
+    "title": "\n      A Redux middleware which throttles actions\n    "
+  },
+  {
+    "projectName": "redux-router-immutable",
+    "title": "\n      Redux bindings for React Router — keep your router state inside your Redux Store.\n    "
+  },
+  {
+    "projectName": "redux-async-transition",
+    "title": "\n      redux + async + transition\n    "
+  },
+  {
+    "projectName": "pouch-redux-middleware",
+    "title": "\n      PouchDB Redux Middleware\n    "
+  },
+  {
+    "projectName": "redux-fsa",
+    "title": "\n      Flux Standard Action utlities for Redux\n    "
+  },
+  {
+    "projectName": "redux-transducers",
+    "title": "\n      Transducer utilities for Redux.\n    "
+  },
+  {
+    "projectName": "redux-universal",
+    "title": "\n      A replacement for Redux's built-in middleware store enhancer to build universal apps.\n    "
+  },
+  {
+    "projectName": "redux-make-immutable",
+    "title": "\n      Coerces native Javascript types into Immutable JS types\n    "
+  },
+  {
+    "projectName": "redux-state-history",
+    "title": "\n      Redux store enhancers for tracking and visualizing state changes\n    "
+  },
+  {
+    "projectName": "redux-chart-monitor",
+    "title": "\n      Monitor for Redux dev tools to visualize your store as a chart\n    "
+  },
+  {
+    "projectName": "redux-keen",
+    "title": "\n      Redux middleware for sending analytics to Keen.\n    "
+  },
+  {
+    "projectName": "redux-boilerplate",
+    "title": "\n      Boilerplate generator for Redux\n    "
+  },
+  {
+    "projectName": "redux-simple-promise",
+    "title": "\n      FSA-compliant promise middleware for Redux with simple behaviour with minimal boilerplate declara...\n    "
+  },
+  {
+    "projectName": "redux-connect-actions",
+    "title": "\n      Redux helper to handle actions\n    "
+  },
+  {
+    "projectName": "rn-redux-mixpanel",
+    "title": "\n      Configurable redux middleware that sends your actions & user profile data to Mixpanel.\n    "
+  },
+  {
+    "projectName": "redux-unhandled-action",
+    "title": "\n      Redux middleware that logs an error to the console when an action does not mutate state\n    "
+  },
+  {
+    "projectName": "redux-framework/redux-framework",
+    "title": "\n      Redux is a simple, truly extensible options framework for WordPress themes and plugins.\n    "
+  },
+  {
+    "projectName": "redux-localstorage-slicer",
+    "title": "\n      Custom slicer for redux-localstorage that allows reducers to define their own persistence configu...\n    "
+  },
+  {
+    "projectName": "redux-session-storage",
+    "title": "\n      record redux actions to session storage\n    "
+  },
+  {
+    "projectName": "redux-side-effects",
+    "title": "\n      Redux toolset for keeping all the side effects inside your reducers while maintaining their purity.\n    "
+  },
+  {
+    "projectName": "flash-notification-react-redux",
+    "title": "\n      An es6 growl like notification plugin for redux\n    "
+  }
+,
+  {
+    "projectName": "loopback-redux-react-boilerplate",
+    "title": "\n      A boilerplate for a Redux-React application using LoopBack\n    "
+  },
+  {
+    "projectName": "redux-create-reducer",
+    "title": "\n      Publishing createReducer from http://rackt.github.io/redux/docs/recipes/ReducingBoilerplate.html\n    "
+  },
+  {
+    "projectName": "redux-action-helper",
+    "title": "\n      Redux Action Helpers\n    "
+  },
+  {
+    "projectName": "redux-localstorage-filter",
+    "title": "\n      Storage enhancer to persist a subset of your state.\n    "
+  },
+  {
+    "projectName": "redux-undo-stack",
+    "title": "\n      Undo stack for redux\n    "
+  },
+  {
+    "projectName": "redux-router-director",
+    "title": "\n      router for redux based on director\n    "
+  },
+  {
+    "projectName": "redux-sequence-action",
+    "title": "\n      redux sequnence action middleware\n    "
+  },
+  {
+    "projectName": "simple-redux-crud",
+    "title": "\n      Simple Redux CRUD for your app\n    "
+  },
+  {
+    "projectName": "redux-via-socket.io",
+    "title": "\n      Redux via Socket.IO\n    "
+  },
+  {
+    "projectName": "redux-fsa-linter",
+    "title": "\n       Redux middleware to lint for Flux Standard Actions\n    "
+  },
+  {
+    "projectName": "redux-store-observer",
+    "title": "\n      Respond to Redux Store Stage Changes\n    "
+  },
+  {
+    "projectName": "redux-white-black",
+    "title": "\n      Redux middleware to execute a callback on action types using a whitelist or blacklist approach\n    "
+  },
+  {
+    "projectName": "redux-freeze-state",
+    "title": "\n      Freeze state to prohibit mutation\n    "
+  },
+  {
+    "projectName": "redux-devtools-script",
+    "title": "\n      Use redux-devtools without React in your app.\n    "
+  },
+  {
+    "projectName": "redux-async-flow",
+    "title": "\n      Async middleware for Redux\n    "
+  },
+  {
+    "projectName": "redux-localstorage-immutable",
+    "title": "\n      Enhancer for redux-localstorage that allows you to persist an immutable store\n    "
+  },
+  {
+    "projectName": "redux-devtools-dispatch",
+    "title": "\n      Dispatch your actions manually to test if your app reacts well\n    "
+  },
+  {
+    "projectName": "redux-form-generator",
+    "title": "\n      Generate forms with redux-form\n    "
+  },
+  {
+    "projectName": "redux-smart-action",
+    "title": "\n      Actions can be smart, too!\n    "
+  },
+  {
+    "projectName": "redux-localstorage-reject",
+    "title": "\n      Web Storage persist of rejected state.\n    "
+  },
+  {
+    "projectName": "generator-react-redux-modules",
+    "title": "\n      React with Redux code generator using Yeoman\n    "
+  },
+  {
+    "projectName": "redux-action-names",
+    "title": "\n      Standard actions names for Flux\n    "
+  },
+  {
+    "projectName": "redux-easy-actions",
+    "title": "\n      Sugar library for easy creating Flux or Redux actions.\n    "
+  },
+  {
+    "projectName": "redux-socket-create-listeners",
+    "title": "\n      create server listeners for redux-socket\n    "
+  },
+  {
+    "projectName": "angular-2-redux",
+    "title": "\n      Angular 2 bindings for redux. Tested with the latest version of both. Also offers ways to bind us...\n    "
+  },
+  {
+    "projectName": "redux-async-transitions",
+    "title": "\n      redux + async + transition\n    "
+  },
+  {
+    "projectName": "redux-client-next",
+    "title": "\n      resolve client promises with redux actions (middleware creator based on: https://github.com/erikr...\n    "
+  },
+  {
+    "projectName": "redux-switch-action",
+    "title": "\n      Slightly more concise reducer switching\n    "
+  },
+  {
+    "projectName": "redux-await-middleware",
+    "title": "\n      Await(Promise) middleware for Redux\n    "
+  },
+  {
+    "projectName": "redux-form-validation",
+    "title": "\n      An helper to make redux form validation easyer\n    "
+  }
+,
+  {
+    "projectName": "redux-remote-monitor",
+    "title": "\n      A custom monitor for Redux DevTools to relay Redux actions.\n    "
+  },
+  {
+    "projectName": "react-redux-provide-list",
+    "title": "\n      Provides a handful of common actions and props specific to lists and items.\n    "
+  },
+  {
+    "projectName": "generator-redux-app",
+    "title": "\n      Scaffold out a redux app\n    "
+  },
+  {
+    "projectName": "redux-raven-middleware",
+    "title": "\n      Redux middleware for sending error reports to Sentry through raven-js.\n    "
+  },
+  {
+    "projectName": "redux-validate-fsa",
+    "title": "\n      Redux middleware that validates if an action is a Flux Standard Action (FSA)\n    "
+  },
+  {
+    "projectName": "redux-devtools-monitor-dock",
+    "title": "\n      [redux-devtools-monitor-dock](http://lapanoid.github.io/redux-devtools-monitor-dock)\r ===========...\n    "
+  },
+  {
+    "projectName": "redux-log-slow-reducers",
+    "title": "\n      Warn about slow reducers used in your redux app.\n    "
+  },
+  {
+    "projectName": "generator-react-webpack-redux",
+    "title": "\n      Yeoman generator for ReactJS and Flux (redux) via Webpack\n    "
+  },
+  {
+    "projectName": "redux-node-logger",
+    "title": "\n      Redux logger for a node environment\n    "
+  },
+  {
+    "projectName": "test-redux-goodies",
+    "title": "\n      Helpers to test Redux code.\n    "
+  },
+  {
+    "projectName": "redux-crud-reducers",
+    "title": "\n      Standard CRUD reducers for Redux\n    "
+  },
+  {
+    "projectName": "redux-action-side-effects",
+    "title": "\n      Add side effects to your actions\n    "
+  },
+  {
+    "projectName": "redux-debounce-listener",
+    "title": "\n      A proxy creator for Redux store to debounce listeners.\n    "
+  },
+  {
+    "projectName": "angular-redux",
+    "title": "\n      Redux helpers for Angular 2\n    "
+  },
+  {
+    "projectName": "redux-proptypes-pack",
+    "title": "\n      Use React.PropTypes in your redux apps.\n    "
+  },
+  {
+    "projectName": "redux-localstorage-debounce",
+    "title": "\n      Storage enhancer to debounce persist requests.\n    "
+  },
+  {
+    "projectName": "redux-action-utils",
+    "title": "\n      Factory functions for reducing action creator boilerplate\n    "
+  },
+  {
+    "projectName": "redux-devtools-ui",
+    "title": "\n      Redux Devtools UI component for better default experience\n    "
+  },
+  {
+    "projectName": "redux-immutable-utils",
+    "title": "\n      Redux Immutable Utility Functions\n    "
+  },
+  {
+    "projectName": "slush-react-redux",
+    "title": "\n      Slush React/Redux boilerplate generator\n    "
+  },
+  {
+    "projectName": "redux-easy-crud",
+    "title": "\n      Redux EASY CRUD\n    "
+  },
+  {
+    "projectName": "redux-react-fetch",
+    "title": "\n      merge in styling with ajax requests in redux\n    "
+  },
+  {
+    "projectName": "redux-promise-thunk",
+    "title": "\n      Thunk generator to dispatch Flux-Standard-Action in each phase of promise\n    "
+  },
+  {
+    "projectName": "redux-async-promise",
+    "title": "\n      dispatch async actions in redux\n    "
+  },
+  {
+    "projectName": "redux-ephemeral",
+    "title": "\n      Pattern for managing transient local state in redux\n    "
+  },
+  {
+    "projectName": "ng-redux",
+    "title": "\n      Redux bindings for Angular.js\n    "
+  },
+  {
+    "projectName": "redux-action-router",
+    "title": "\n      A redux middleware that implements a simple, bidirectional mapping between url routes and actions...\n    "
+  },
+  {
+    "projectName": "redux-crud-actions",
+    "title": "\n      Standard CRUD actions for Redux\n    "
+  },
+  {
+    "projectName": "redux-middleware-logger",
+    "title": "\n      Logger for Redux's middleware.\n    "
+  },
+  {
+    "projectName": "redux-easy-app",
+    "title": "\n      Wrapper library for a Redux Isomorphic App with Router\n    "
+  }
+,
+  {
+    "projectName": "ng-redux-dev-tools",
+    "title": "\n      DevTools for Redux using Angular 1.x\n    "
+  },
+  {
+    "projectName": "redux-persistent-state-snapshot",
+    "title": "\n      Redux middleware for making persistent state snapshots\n    "
+  },
+  {
+    "projectName": "redux-axios-api-middleware",
+    "title": "\n      redux middleware using axios making api calls with redux easy\n    "
+  },
+  {
+    "projectName": "redux-immutable-combine-reducers",
+    "title": "\n      A Redux combineReducers that returns an Immutable Map\n    "
+  },
+  {
+    "projectName": "redux-replicate-localforage",
+    "title": "\n      Replicator for `redux-replicate` designed to locally persist the state of `redux` stores using `l...\n    "
+  },
+  {
+    "projectName": "redux-form-validate",
+    "title": "\n      Validate function for redux-form. Type checking based on React.PropTypes.\n    "
+  },
+  {
+    "projectName": "redux-promised-thunk",
+    "title": "\n      Promised thunk middleware for Redux\n    "
+  },
+  {
+    "projectName": "browser-redux-sync",
+    "title": "\n      Keep redux states in sync for browser extensions and apps.\n    "
+  },
+  {
+    "projectName": "browser-redux-bg",
+    "title": "\n      Messaging library for Cross-browser extensions and Chrome apps. Calls actions from the background...\n    "
+  },
+  {
+    "projectName": "redux-make-mori",
+    "title": "\n      Coerces native Javascript types into Mori types\n    "
+  },
+  {
+    "projectName": "redux-action-propcheck",
+    "title": "\n      A redux middleware to check action property types.\n    "
+  },
+  {
+    "projectName": "redux-flux-store",
+    "title": "\n      Redux store enhancer which converts Flux like stores into a reducer function\n    "
+  },
+  {
+    "projectName": "react-redux-ducks",
+    "title": "\n      React supplementary toolset for redux-ducks.\n    "
+  },
+  {
+    "projectName": "redux-save-state",
+    "title": "\n      A Redux middleware which saves a snapshot of the state to localStorage\n    "
+  },
+  {
+    "projectName": "redux-immutable-to-js",
+    "title": "\n      A proxy creator for Redux store to convert immutable objects to JS objects.\n    "
+  },
+  {
+    "projectName": "redux-connected-proptypes",
+    "title": "\n      an interface for defining React component props using redux, react-redux and PropTypes\n    "
+  },
+  {
+    "projectName": "react-redux-provide-map",
+    "title": "\n      Provides a handful of common actions and props specific to selecting keys within some object.\n    "
+  },
+  {
+    "projectName": "react-redux-provide-theme",
+    "title": "\n      Provides themes as classes created by JSS to React components.\n    "
+  },
+  {
+    "projectName": "react-redux-provide-history",
+    "title": "\n      Provides the HTML5 History API to React components.\n    "
+  },
+  {
+    "projectName": "react-redux-connect-context",
+    "title": "\n      Enhanced version of redux' connect that puts action creators in the child context\n    "
+  },
+  {
+    "projectName": "react-redux-provide-selectable",
+    "title": "\n      Provides a handful of common actions and props specific to selecting keys within some object.\n    "
+  },
+  {
+    "projectName": "react-redux-remap-provider",
+    "title": "\n      Utility for mapping common providers to new keys.\n    "
+  },
+  {
+    "projectName": "itsa-redux-clientstorage",
+    "title": "\n      Redux addon for itsa-server which stores and loads state to the local storage during a session\n    "
+  },
+  {
+    "projectName": "redux-immutablejs",
+    "title": "\n      Redux Immutable facilities\n    "
+  },
+  {
+    "projectName": "redux-api",
+    "title": "\n      Flux REST API for redux infrastructure\n    "
+  },
+  {
+    "projectName": "redux-localstorage",
+    "title": "\n      Unopinionated store enhancer that persists state changes (locally).\n    "
+  },
+  {
+    "projectName": "org.webjars.npm:ng-redux",
+    "title": "\n      WebJar for ng-redux\n    "
+  },
+  {
+    "projectName": "ng2-redux",
+    "title": "\n      Angular 2 bindings for Redux\n    "
+  },
+  {
+    "projectName": "redux-standard-action",
+    "title": "\n      A human-friendly standard for Redux action objects\n    "
+  },
+  {
+    "projectName": "react-redux-provide-test-utils",
+    "title": "\n      WIP helpers for testing components using `react-redux-provide`.\n    "
+  }
+,
+  {
+    "projectName": "redux-devtools-prompt-state",
+    "title": "\n      A redux devtools utility to prompt / copy / paste state of an app\n    "
+  },
+  {
+    "projectName": "redux-optimistic-ui",
+    "title": "\n      a reducer enhancer to enable type-agnostic optimistic updates\n    "
+  },
+  {
+    "projectName": "redux-socket-cluster",
+    "title": "\n      A socket-cluster state snatcher\n    "
+  },
+  {
+    "projectName": "querycsv-redux",
+    "title": "\n      Execute SQL code against data contained in one or more comma-separated-value (CSV) files.\n    "
+  },
+  {
+    "projectName": "redux-analytics",
+    "title": "\n      Analytics middleware for Redux\n    "
+  },
+  {
+    "projectName": "redux-middleware-api",
+    "title": "\n      Making API calls easier with a middleware and some action creators\n    "
+  },
+  {
+    "projectName": "redux-async-middleware",
+    "title": "\n      Provides a middleware for handling asynchronous actions.\n    "
+  },
+  {
+    "projectName": "redux-optimist-promise",
+    "title": "\n      Promise middleware for Redux and optimistically apply actions that can be later commited or rever...\n    "
+  },
+  {
+    "projectName": "redux-side-effect",
+    "title": "\n      Side effect middleware for Redux.\n    "
+  },
+  {
+    "projectName": "redux-flo",
+    "title": "\n      Flow control middleware.\n    "
+  },
+  {
+    "projectName": "react-redux-provide-page",
+    "title": "\n      Provides routing and server rendering utilities via the HTML5 History API to React components.\n    "
+  },
+  {
+    "projectName": "redux-skip-by-action",
+    "title": "\n      redux store enhancer that allows skipping subscriber notifications by action metadata\n    "
+  },
+  {
+    "projectName": "redux-devtools-log-monitor-filtrable",
+    "title": "\n      Redux DevTools tree view monitor with the ability to filter actions.\n    "
+  },
+  {
+    "projectName": "redux-mini-router",
+    "title": "\n      Minimal React/Redux router library\n    "
+  },
+  {
+    "projectName": "redux-multi",
+    "title": "\n      Dispatch multiple actions from one action creator\n    "
+  },
+  {
+    "projectName": "highlight-redux",
+    "title": "\n      A redux of highlight.js for the Browserify human\n    "
+  },
+  {
+    "projectName": "sifttter-redux",
+    "title": "\n      A customized IFTTT-to-Day One service that allows for smart installation and automated running on...\n    "
+  },
+  {
+    "projectName": "redux-optimist",
+    "title": "\n      Optimistically apply actions that can be later commited or reverted.\n    "
+  },
+  {
+    "projectName": "redux-utils",
+    "title": "\n      Utility functions for redux\n    "
+  },
+  {
+    "projectName": "redux-gen",
+    "title": "\n      Generator middleware for redux.\n    "
+  },
+  {
+    "projectName": "redux-debounced",
+    "title": "\n      Debounce middleware for Redux\n    "
+  },
+  {
+    "projectName": "redux-middleware-react-native-appstate",
+    "title": "\n      Glue AppState from react-native to Redux.\n    "
+  },
+  {
+    "projectName": "github.com/gyepisam/redux/redux",
+    "title": "\n      redux is an implementation of the redo top down software build tools\n    "
+  },
+  {
+    "projectName": "redux-localstorage-pouchdb",
+    "title": "\n      \n    "
+  },
+  {
+    "projectName": "redux-devtools-deku-slider-monitor",
+    "title": "\n      Redux DevTools Monitor for Deku with a simple slider\n    "
+  },
+  {
+    "projectName": "mithril-redux",
+    "title": "\n      Bindings between Mithril and Redux\n    "
+  },
+  {
+    "projectName": "coffeeify-redux",
+    "title": "\n      browserify v2 plugin to compile coffee-script automatically using the coffee-script-redux compiler\n    "
+  },
+  {
+    "projectName": "redux-converter",
+    "title": "\n      Redux Converter allows you to get going with Redux Framework almost instantly. Just install and r...\n    "
+  },
+  {
+    "projectName": "redux-delegator",
+    "title": "\n      [![npm version](https://badge.fury.io/js/redux-delegator.svg)](http://badge.fury.io/js/redux-dele...\n    "
+  },
+  {
+    "projectName": "redux-api",
+    "title": "\n      Flux REST API for redux infrastructure\n    "
+  }
+,
+  {
+    "projectName": "immutable-redux",
+    "title": "\n      Provides utilities for dealing with Immutable.js data structures in Redux.\n    "
+  },
+  {
+    "projectName": "mole-redux",
+    "title": "\n      Adaptor that aims to provide simple adaptor to integrate mole-reporter in redux applications.\n    "
+  },
+  {
+    "projectName": "redux-snippets",
+    "title": "\n      Atom Snippets for Redux\n    "
+  },
+  {
+    "projectName": "redux-wait",
+    "title": "\n      A helper to let you wait for redux actions to be processed in a universal app\n    "
+  },
+  {
+    "projectName": "redux-test",
+    "title": "\n      Create a redux-like store for testing\n    "
+  },
+  {
+    "projectName": "redux-responsive",
+    "title": "\n      Utilities for easily creating responsive designs in a redux architecture.\n    "
+  },
+  {
+    "projectName": "redux-lift",
+    "title": "\n      Store composition for redux.\n    "
+  },
+  {
+    "projectName": "fody-redux",
+    "title": "\n      Render in react with redux with context and layout\n    "
+  },
+  {
+    "projectName": "redux-waitfor",
+    "title": "\n      Reducer combinator that allows reducers to wait upon each other.\n    "
+  },
+  {
+    "projectName": "redux-devtools-filterable-log-monitor",
+    "title": "\n      Filterable tree view monitor for Redux DevTools\n    "
+  },
+  {
+    "projectName": "flux-redux",
+    "title": "\n      Renamed to `fluctuations`\n    "
+  },
+  {
+    "projectName": "remote-redux-devtools",
+    "title": "\n      Relay Redux actions to remote Redux DevTools.\n    "
+  },
+  {
+    "projectName": "generator-redux-component",
+    "title": "\n      React-Redux generator for app with feature folders\n    "
+  },
+  {
+    "projectName": "redux-middleware-oneshot",
+    "title": "\n      Create a middleware\n    "
+  },
+  {
+    "projectName": "react-redux-controller",
+    "title": "\n      Library for creating a controller layer to link React and Redux.\n    "
+  },
+  {
+    "projectName": "redux-blogapp",
+    "title": "\n      Redux and React Router Blogapp example\n    "
+  },
+  {
+    "projectName": "redux-component-state",
+    "title": "\n      Manage dynamic reducers specific for a component or a set of components\n    "
+  },
+  {
+    "projectName": "react-tabs-redux",
+    "title": "\n      Simple, fully customizable React tabs component that can be used in plain React application or wi...\n    "
+  },
+  {
+    "projectName": "react-redux-chromecast-sender",
+    "title": "\n      React/Redux helpers for Chromecast communication (sender)\n    "
+  },
+  {
+    "projectName": "redux-devtools-filter-actions",
+    "title": "\n      A composable monitor for Redux DevTools with the ability to filter actions.\n    "
+  },
+  {
+    "projectName": "generator-webpack-redux-react",
+    "title": "\n      Yeoman generator for React/Redux projects.\n    "
+  },
+  {
+    "projectName": "remote-redux-devtools-on-debugger",
+    "title": "\n      remote-redux-devtools monitor on react-native debugger UI\n    "
+  },
+  {
+    "projectName": "redux-middleware-react-native-netinfo",
+    "title": "\n      Glue NetInfo from react-native to Redux.\n    "
+  },
+  {
+    "projectName": "vulture-redux",
+    "title": "\n      Redux bindings for vulture\n    "
+  },
+  {
+    "projectName": "redux-universal-starter",
+    "title": "\n      A universal redux starter (ES6, Webpack, Express)\n    "
+  },
+  {
+    "projectName": "redux-toastr",
+    "title": "\n      redux-toastr is a toastr message implemented with Redux\n    "
+  },
+  {
+    "projectName": "redux-remote",
+    "title": "\n      Most importantly that I am not resend all actions but listen store updates and send it to another...\n    "
+  },
+  {
+    "projectName": "redux-as-component",
+    "title": "\n      My supreme module\n    "
+  },
+  {
+    "projectName": "redux-auth",
+    "title": "\n      Complete token authentication system for react + redux.\n    "
+  },
+  {
+    "projectName": "redux-builder",
+    "title": "\n      \n    "
+  }
+,
+  {
+    "projectName": "redux-reducer",
+    "title": "\n      \n    "
+  },
+  {
+    "projectName": "redux-framework",
+    "title": "\n      Redux is a simple, truly extensible and fully responsive options framework for WordPress themes a...\n    "
+  },
+  {
+    "projectName": "redux-counter-example",
+    "title": "\n      Redux counter example\n    "
+  },
+  {
+    "projectName": "generator-react-redux",
+    "title": "\n      [WIP] A yeoman generator to scaffold a react redux project\n    "
+  },
+  {
+    "projectName": "redux-slider-monitor",
+    "title": "\n      A custom monitor for replaying Redux actions that works similarly to a video player\n    "
+  },
+  {
+    "projectName": "redux-devtools-themes",
+    "title": "\n      Color themes for Redux DevTools monitors\n    "
+  },
+  {
+    "projectName": "redux-flow",
+    "title": "\n      Cut Redux data flow with ease.\n    "
+  },
+  {
+    "projectName": "redux-fetcher",
+    "title": "\n      Simple isomorophic fetch for Redux\n    "
+  },
+  {
+    "projectName": "redux-prefetch",
+    "title": "\n      prefetch async state on the server for universal react apps built with redux\n    "
+  },
+  {
+    "projectName": "redux-hub",
+    "title": "\n      a collection of helper functions for redux operation\n    "
+  },
+  {
+    "projectName": "redux-mock-store",
+    "title": "\n      [![Circle CI](https://circleci.com/gh/arnaudbenard/redux-mock-store/tree/master.svg?style=svg)](h...\n    "
+  },
+  {
+    "projectName": "coffee-redux-loader",
+    "title": "\n      coffee redux loader module for webpack\n    "
+  },
+  {
+    "projectName": "grunt-obfuscator-redux",
+    "title": "\n      Obfuscate Node.js projects via Grunt.\n    "
+  },
+  {
+    "projectName": "onesky-python-redux",
+    "title": "\n      Python Wrapper for the OneSky REST API\n    "
+  },
+  {
+    "projectName": "redux-history-transitions",
+    "title": "\n      Define transitions based on actions\n    "
+  },
+  {
+    "projectName": "redux-devtools-log-monitor-filterable",
+    "title": "\n      Redux DevTools tree view monitor with the ability to filter actions.\n    "
+  },
+  {
+    "projectName": "ts-redux",
+    "title": "\n      A bunch of utilities for users of both TypeScript and redux\n    "
+  },
+  {
+    "projectName": "react-redux-starter-kit",
+    "title": "\n      Get started with React, Redux, and React-Router!\n    "
+  },
+  {
+    "projectName": "easy-motion-redux",
+    "title": "\n      MovementSpeed++. Jump to any word in your current view super fast. (redux)\n    "
+  },
+  {
+    "projectName": "redux-effects-events",
+    "title": "\n      Setup event listeners for various things\n    "
+  },
+  {
+    "projectName": "redux-validate",
+    "title": "\n      Easy validation for redux-form\n    "
+  },
+  {
+    "projectName": "redux-error",
+    "title": "\n      Redux error processor\n    "
+  },
+  {
+    "projectName": "redux-request",
+    "title": "\n      Best way to handling async actions.\n    "
+  },
+  {
+    "projectName": "redux-angular2",
+    "title": "\n      \n    "
+  },
+  {
+    "projectName": "redux-viewmodel",
+    "title": "\n      View-Model design based on Redux & React\n    "
+  },
+  {
+    "projectName": "redux-map",
+    "title": "\n      Simple map middleware.\n    "
+  },
+  {
+    "projectName": "redux-persist-immutable",
+    "title": "\n      immutable.js transform for redux-persist\n    "
+  },
+  {
+    "projectName": "grunt-jst-redux",
+    "title": "\n      Precompile Underscore templates to JST file\n    "
+  },
+  {
+    "projectName": "fundera-redux-snippets",
+    "title": "\n      Fundera Redux snippets\n    "
+  },
+  {
+    "projectName": "redux-simple-localstorage",
+    "title": "\n      Ridiculously simple implementation for serialising the entire Redux store to local storage and re...\n    "
+  }
+,
+  {
+    "projectName": "realm-redux",
+    "title": "\n      Enables the use of Redux extensions with Realm components\n    "
+  },
+  {
+    "projectName": "coffee-script-redux",
+    "title": "\n          Ruby CoffeeScriptRedux is a bridge to the JS CoffeeScriptRedux compiler.\n\n    "
+  },
+  {
+    "projectName": "nodebb-theme-rocket-redux",
+    "title": "\n      A theme with a card-based design for NodeBB forums. Mobile enabled.\n    "
+  },
+  {
+    "projectName": "django-registration-redux-referrals",
+    "title": "\n      An extensible user-registration application for Django with basic support for email user referrals\n    "
+  },
+  {
+    "projectName": "generator-react-redux-kit",
+    "title": "\n      Yeoman Generator for building SPA with React, Redux, and React Router\n    "
+  },
+  {
+    "projectName": "browser-redux",
+    "title": "\n      Building Chrome apps and cross-browser extensions with Redux and Webpack.\n    "
+  },
+  {
+    "projectName": "ibex-react-redux",
+    "title": "\n      render with react and redux in ibex\n    "
+  },
+  {
+    "projectName": "redux-effects-credentials",
+    "title": "\n      Add credentials to fetch requests when conditions are met\n    "
+  },
+  {
+    "projectName": "redux-effects-timeout",
+    "title": "\n      redux-effects middleware for managing timeouts/intervals/requestAnimationFrames\n    "
+  },
+  {
+    "projectName": "generator-mg-redux",
+    "title": "\n      A generator for developing static sites. Gulp, Pattern Lab, Sass, CoffeeScript, and an auto-reloa...\n    "
+  },
+  {
+    "projectName": "redux-promise-test",
+    "title": "\n      Create redux-promise action results for your reducer tests\n    "
+  },
+  {
+    "projectName": "react-redux-rails",
+    "title": "\n      A Rails wrapper for the react-redux React wrapper for redux\n    "
+  },
+  {
+    "projectName": "ng-redux-router",
+    "title": "\n      Redux middleware for use with Angular Router\n    "
+  },
+  {
+    "projectName": "redux-mock-store-jest",
+    "title": "\n      [![Circle CI](https://circleci.com/gh/arnaudbenard/redux-mock-store/tree/master.svg?style=svg)](h...\n    "
+  },
+  {
+    "projectName": "pouchdb-redux-helper",
+    "title": "\n      Helpers for working with PouchDB in React with Redux store.\n    "
+  },
+  {
+    "projectName": "live-redux-helpers",
+    "title": "\n      > Add globals.\n    "
+  },
+  {
+    "projectName": "redux-fetch-action",
+    "title": "\n      Fetch Action utilities for Redux.\n    "
+  },
+  {
+    "projectName": "redux-persist-except-ings",
+    "title": "\n      Ignore event states that contains \"ing\", avoids stalemate occured by app restarting during events\n    "
+  },
+  {
+    "projectName": "github.com/gyepisam/redux",
+    "title": "\n      redux is an implementation of the redo top down software build tools\n    "
+  },
+  {
+    "projectName": "redux-effects-random",
+    "title": "\n      Random number generator for redux-effects\n    "
+  },
+  {
+    "projectName": "redux-effects-localstorage",
+    "title": "\n      Redux effects driver for localStorage\n    "
+  },
+  {
+    "projectName": "redux-effects-cookie",
+    "title": "\n      Access and manipulate cookies in redux-effects middleware\n    "
+  },
+  {
+    "projectName": "redux-effects-location",
+    "title": "\n      redux-effects middleware for dealing with location/url\n    "
+  },
+  {
+    "projectName": "mongrel_secure_download-redux",
+    "title": "\n      Re-implementation of the Mongrel Secure Download Plugin\n    "
+  },
+  {
+    "projectName": "redux-transduce",
+    "title": "\n      Use transducers to create Redux reducers\n    "
+  },
+  {
+    "projectName": "generic-pool-redux",
+    "title": "\n      Generic resource pooling in Javascript\n    "
+  },
+  {
+    "projectName": "grunt-coffee-redux",
+    "title": "\n      Compile CoffeeScript files to JavaScript with the CoffeeScript Redux compiler.\n    "
+  },
+  {
+    "projectName": "redux-universal-router",
+    "title": "\n      Universal router for redux\n    "
+  },
+  {
+    "projectName": "redux-simple-form",
+    "title": "\n      Simple Redux Forms\n    "
+  },
+  {
+    "projectName": "universal-redux-router",
+    "title": "\n      A very simple router for Redux and React that works on both server and client\n    "
+  }
+,
+  {
+    "projectName": "redux-seamless-reducers",
+    "title": "\n      Integrate seamless-immutable with Redux\n    "
+  },
+  {
+    "projectName": "redux-batch-middleware",
+    "title": "\n      Batch redux actions\n    "
+  },
+  {
+    "projectName": "redux-request-middleware",
+    "title": "\n      Redux middleware to dispatch Superagent or BackboneORM requests\n    "
+  },
+  {
+    "projectName": "redux-theme-default",
+    "title": "\n      Default theme example for redux-theme\n    "
+  },
+  {
+    "projectName": "auk-react-redux",
+    "title": "\n      render with react and redux in auk server\n    "
+  },
+  {
+    "projectName": "simple-crumbs-redux",
+    "title": "\n      Summary: Generates navigation bread crumbs in WordPress. Requires permalinks.\n    "
+  },
+  {
+    "projectName": "coffee-script-redux-brunch",
+    "title": "\n      Adds CoffeeScriptRedux support to brunch.\n    "
+  },
+  {
+    "projectName": "redux-async-actions-reducers",
+    "title": "\n      按需加载redux actions reducers\n    "
+  },
+  {
+    "projectName": "redux-state-history-example",
+    "title": "\n      Redux State History Example (based off redux-todomvc-example)\n    "
+  },
+  {
+    "projectName": "redux-import-export-monitor",
+    "title": "\n      Redux DevTools monitor for copying state/action log to clipboard as well as pasting it back in.\n    "
+  },
+  {
+    "projectName": "redux-developer-mode-disabler",
+    "title": "\n      For users who have a product with Redux Framework that a developer shipped with developer mode on...\n    "
+  },
+  {
+    "projectName": "angular2-redux-store",
+    "title": "\n      A minimalistic Redux store for Angular 2\n    "
+  },
+  {
+    "projectName": "redux-batched-updates",
+    "title": "\n      Batch React updates that occur as a result of Redux dispatches.\n    "
+  },
+  {
+    "projectName": "redux-devtools-diff-monitor",
+    "title": "\n      A monitor for Redux Devtools that diffs the redux store mutations between actions for a more conc...\n    "
+  },
+  {
+    "projectName": "redux-vstack-router",
+    "title": "\n      Helpers to bind vstack-router to redux\n    "
+  },
+  {
+    "projectName": "redux-effects-sessionstorage",
+    "title": "\n      Redux effects driver for sessionStorage\n    "
+  },
+  {
+    "projectName": "generator-redux-react",
+    "title": "\n      Redux react project structure for the microservices-ecs-empire-seed\n    "
+  },
+  {
+    "projectName": "coffee-script-redux-source",
+    "title": "\n      CoffeeScriptRedux is a little language that compiles into JavaScript.\n    "
+  },
+  {
+    "projectName": "redux-chrome-extension",
+    "title": "\n      \n    "
+  },
+  {
+    "projectName": "react-native-redux-router",
+    "title": "\n      React Native Router using Redux architecture\n    "
+  },
+  {
+    "projectName": "github.com/maqroll/redux",
+    "title": "\n      redux is an implementation of the redo top down software build tools\n    "
+  },
+  {
+    "projectName": "redux-rest",
+    "title": "\n      Automatically create Flux action constants, action creators and Redux reducers for your REST API\n    "
+  },
+  {
+    "projectName": "react-native-router-redux",
+    "title": "\n      A routing library for React Native and Redux\n    "
+  },
+  {
+    "projectName": "redux-ui-router",
+    "title": "\n      Redux middleware for use with Angular UI Router\n    "
+  },
+  {
+    "projectName": "redux-react-connector",
+    "title": "\n      Higher-order React component for listening to redux stores\n    "
+  },
+  {
+    "projectName": "redux-react-router-transitions",
+    "title": "\n      Define transitions based on actions\n    "
+  },
+  {
+    "projectName": "react-babel-redux-redux-router-sass-webpack-start-pack",
+    "title": "\n      This is a start package for using react, babel, es6, redux, redux-router, sass altogether\n    "
+  },
+  {
+    "projectName": "github.com/akavel/redux",
+    "title": "\n      redux is an implementation of the redo top down software build tools\n    "
+  },
+  {
+    "projectName": "now-reading-redux",
+    "title": "\n      Track and share books you read, are reading and plan to read, with Amazon integration and cover a...\n    "
+  },
+  {
+    "projectName": "external-permalinks-redux",
+    "title": "\n      Allows you to point WordPress objects (posts, pages, custom post types) to a URL of your choosing.\n    "
+  }
+,
+  {
+    "projectName": "baluhn-redux",
+    "title": "\n      A base-agnostic implementation of the Luhn Algorithm for Python. Useful for generating and verify...\n    "
+  },
+  {
+    "projectName": "redux-createreducer",
+    "title": "\n      Creates a reducer from an object with action handlers\n    "
+  },
+  {
+    "projectName": "coffee-script-redux",
+    "title": "\n      Unfancy JavaScript\n    "
+  },
+  {
+    "projectName": "django-storages-redux",
+    "title": "\n      Support for many storages (S3, MogileFS, etc) in Django.\n    "
+  },
+  {
+    "projectName": "django-lazysignup-redux",
+    "title": "\n      Lazy signup for Django\n    "
+  },
+  {
+    "projectName": "django-registration-redux",
+    "title": "\n      An extensible user-registration application for Django\n    "
+  },
+  {
+    "projectName": "redux-staythere",
+    "title": "\n      _Ask your store to stay there, in localStorage._\n    "
+  },
+  {
+    "projectName": "register-plus-redux-export-users",
+    "title": "\n      Export users to CSV files, supports all WordPress profile data also Register Plus Redux Extra Fie...\n    "
+  },
+  {
+    "projectName": "jasmine-pit-redux",
+    "title": "\n      Writing tests for promises in jasmine is kind of a pain in the ass. jasmine-pit makes doing such ...\n    "
+  },
+  {
+    "projectName": "django-mailgun-redux",
+    "title": "\n      A Django email backend for Mailgun\n    "
+  },
+  {
+    "projectName": "ddate-redux",
+    "title": "\n      reimplement the ddate unix command, in ruby\n    "
+  },
+  {
+    "projectName": "redux-playbook",
+    "title": "\n      \n    "
+  },
+  {
+    "projectName": "redux-react",
+    "title": "\n      \n    "
+  },
+  {
+    "projectName": "redux-logger.TypeScript.DefinitelyTyped",
+    "title": "\n      TypeScript Definitions (d.ts) for redux-logger. Generated based off the DefinitelyTyped repositor...\n    "
+  },
+  {
+    "projectName": "redux-devtools.TypeScript.DefinitelyTyped",
+    "title": "\n      TypeScript Definitions (d.ts) for redux-devtools. Generated based off the DefinitelyTyped reposit...\n    "
+  },
+  {
+    "projectName": "redux-clientmiddleware",
+    "title": "\n      \n    "
+  },
+  {
+    "projectName": "github.com/magicclaw/omnomnom-redux",
+    "title": "\n      omnomnom-redux\n    "
+  },
+  {
+    "projectName": "angular-jsoncorsdb-redux",
+    "title": "\n      \n    "
+  },
+  {
+    "projectName": "redux-devtools-slider-monitor",
+    "title": "\n      A custom monitor for replaying Redux actions that works similarly to a video player\n    "
+  },
+  {
+    "projectName": "coffee-script-redux",
+    "title": "\n      :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus o...\n    "
+  },
+  {
+    "projectName": "Flask-WhooshAlchemy-Redux",
+    "title": "\n      Whoosh extension to Flask/SQLAlchemy\n    "
+  },
+  {
+    "projectName": "react-toastr-redux",
+    "title": "\n      Fork of tomchentw/react-toastr React.js toastr component\n    "
+  },
+  {
+    "projectName": "decorated-redux",
+    "title": "\n      Helpers for Redux designed to work great with Typescript.\n    "
+  },
+  {
+    "projectName": "js2coffee-redux",
+    "title": "\n      Compile JavaScript into CoffeeScript.\n    "
+  },
+  {
+    "projectName": "memcached-redux",
+    "title": "\n      Uses the Memcached class (not the Memcache class) to implement WP Object Cache\n    "
+  },
+  {
+    "projectName": "redux-notifications",
+    "title": "\n      redux based notification system\n    "
+  },
+  {
+    "projectName": "redux-form.TypeScript.DefinitelyTyped",
+    "title": "\n      TypeScript Definitions (d.ts) for redux-form. Generated based off the DefinitelyTyped repository ...\n    "
+  },
+  {
+    "projectName": "kyutaekang:react-redux",
+    "title": "\n      react-redux\n    "
+  },
+  {
+    "projectName": "redux-thunk.TypeScript.DefinitelyTyped",
+    "title": "\n      TypeScript Definitions (d.ts) for redux-thunk. Generated based off the DefinitelyTyped repository...\n    "
+  },
+  {
+    "projectName": "redux-actions.TypeScript.DefinitelyTyped",
+    "title": "\n      TypeScript Definitions (d.ts) for redux-actions. Generated based off the DefinitelyTyped reposito...\n    "
+  }
+,
+  {
+    "projectName": "django-dropbox-redux",
+    "title": "\n      A Django App that contains a Django Storage which uses Dropbox with Python3 support.\n    "
+  },
+  {
+    "projectName": "freezer-redux-devtools",
+    "title": "\n      A bind to use redux-devtools in freezer-js apps.\n    "
+  },
+  {
+    "projectName": "redux-immutable-state-invariant",
+    "title": "\n      Redux middleware that detects mutations between and outside redux dispatches. For development use...\n    "
+  },
+  {
+    "projectName": "article-directory-redux",
+    "title": "\n      Displays the list of categories like in article directory and allows authors to publish articles ...\n    "
+  },
+  {
+    "projectName": "redux-persist-store",
+    "title": "\n      persist and rehydrate redux stores\n    "
+  },
+  {
+    "projectName": "point-simple-router",
+    "title": "\n      Ruthlessly simple bindings to keep react-router and redux in sync\n    "
+  },
+  {
+    "projectName": "mongoose-email-address-manager-redux",
+    "title": "\n      Manage multiple email addresses per user (or other model/doc) with this mongoose schema plugin.\n    "
+  },
+  {
+    "projectName": "normalizr-middleware",
+    "title": "\n      Combines redux middleware and normalizr to make flattening nested data a snap\n    "
+  },
+  {
+    "projectName": "redux-mongo-admin",
+    "title": "\n      A MongoDB Admin system to be used with Mongoose\n    "
+  },
+  {
+    "projectName": "redux-action-utils.TypeScript.DefinitelyTyped",
+    "title": "\n      TypeScript Definitions (d.ts) for redux-action-utils. Generated based off the DefinitelyTyped rep...\n    "
+  },
+  {
+    "projectName": "redux-effects-socketio",
+    "title": "\n      A redux effects middleware for websockets\n    "
+  },
+  {
+    "projectName": "redux-form-schema",
+    "title": "\n      Extension to Redux Form allowing creation of schemas (with valididation) to manage your form fields\n    "
+  },
+  {
+    "projectName": "redux-logger-example-basic",
+    "title": "\n      Basic example of redux-logger\n    "
+  },
+  {
+    "projectName": "remotedev",
+    "title": "\n      A custom monitor for Redux DevTools to relay Redux actions.\n    "
+  },
+  {
+    "projectName": "rlux-standard-action",
+    "title": "\n      A human-friendly standard for Redux action objects\n    "
+  },
+  {
+    "projectName": "redux-http",
+    "title": "\n      Non-trivial REST for your Redux application\n    "
+  },
+  {
+    "projectName": "post-links-redux",
+    "title": "\n      Display text instead of nothing if there isn&#039;t a next or previous post for the currently-dis...\n    "
+  },
+  {
+    "projectName": "oldest-2-newest-redux",
+    "title": "\n      Take the oldest post and make it the newest post if there has not been a new post in 24 hours, th...\n    "
+  },
+  {
+    "projectName": "the-other-redux-form",
+    "title": "\n      > Warning: Deprecated. Please use [`redux-formo`](https://www.npmjs.com/package/redux-formo) inst...\n    "
+  },
+  {
+    "projectName": "kudu-client-redux-actions",
+    "title": "\n      A set of [Redux][redux] actions for [Kudu][kudu] client applications. This is an unstable pre-rel...\n    "
+  },
+  {
+    "projectName": "redux-catalyst-multiselect",
+    "title": "\n      A Redux-based MultiSelect component, in ES6, with filtering\n    "
+  },
+  {
+    "projectName": "declarative-promise",
+    "title": "\n      Behaves kinda like the es6 Promise api, but it doesn't actually *do* anything.  It just produces ...\n    "
+  },
+  {
+    "projectName": "redux-fit-web",
+    "title": "\n      Redux Web Client code and resources.\n    "
+  },
+  {
+    "projectName": "declarative-fetch",
+    "title": "\n      Fetch description generator.  This package does not actually execute any fetches, it simply provi...\n    "
+  },
+  {
+    "projectName": "reselect",
+    "title": "\n      Selectors for Redux.\n    "
+  },
+  {
+    "projectName": "route-action",
+    "title": "\n      A redux action creator meant to be used in conjunction with the redouter framework.\n    "
+  },
+  {
+    "projectName": "actions-recorder",
+    "title": "\n      React Actions Recorder(like Redux)\n    "
+  },
+  {
+    "projectName": "mighty-dux",
+    "title": "\n      Redux inspired Flux Stores\n    "
+  },
+  {
+    "projectName": "typedux",
+    "title": "\n      Redux migrated for Typescript\n    "
+  },
+  {
+    "projectName": "zlux",
+    "title": "\n      simple alternative for redux with OOP pattern\n    "
+  }
+,
+  {
+    "projectName": "declarative-effect",
+    "title": "\n      Action creator for redux-effects\n    "
+  },
+  {
+    "projectName": "meteoredux",
+    "title": "\n      A small package that make Redux connected with Meteor.\n    "
+  },
+  {
+    "projectName": "Reducto",
+    "title": "\n      A port of Redux to .NET\n    "
+  },
+  {
+    "projectName": "firedux",
+    "title": "\n      Firebase + Redux for ReactJS\n    "
+  },
+  {
+    "projectName": "flucz",
+    "title": "\n      Redux inspired flux implementation\n    "
+  },
+  {
+    "projectName": "reduxette",
+    "title": "\n      ECMAScript 6 port of chopped-redux, an implementation of @gaearon Redux\n    "
+  },
+  {
+    "projectName": "replux",
+    "title": "\n      Enhancements for Redux to use with greater self contained components\n    "
+  },
+  {
+    "projectName": "tiny-duck",
+    "title": "\n      Composable redux reducers\n    "
+  },
+  {
+    "projectName": "make-reducer",
+    "title": "\n      Functions to easily build redux reducers without boilerplate code.\n    "
+  },
+  {
+    "projectName": "declarative-cookie",
+    "title": "\n      Action creator for redux-effects-cookie\n    "
+  },
+  {
+    "projectName": "declarative-random",
+    "title": "\n      Action creator for redux-effects-random\n    "
+  },
+  {
+    "projectName": "declarative-events",
+    "title": "\n      Action creators for redux-effects-events\n    "
+  },
+  {
+    "projectName": "zephyr-reflux",
+    "title": "\n      Hook up a React/Redux application.\n    "
+  },
+  {
+    "projectName": "vdom-z",
+    "title": "\n      A redux like library for virtual-dom\n    "
+  },
+  {
+    "projectName": "grunt-typed-coffee-script",
+    "title": "\n      Compile CoffeeScript files to JavaScript with the CoffeeScript Redux compiler.\n    "
+  },
+  {
+    "projectName": "autoaction",
+    "title": "\n      Declarative data loading for redux + react\n    "
+  },
+  {
+    "projectName": "feathers-action",
+    "title": "\n      use feathers services with redux\n    "
+  },
+  {
+    "projectName": "react-isomorphic-render",
+    "title": "\n      Isomorphic rendering with React, Redux, React-router and Redux-router. Includes support for Webpack\n    "
+  },
+  {
+    "projectName": "react-constant",
+    "title": "\n      Fuck off constants.js and golobal constants in react/flux/redux/wateva.\n    "
+  },
+  {
+    "projectName": "sync-types",
+    "title": "\n      Sync types to use in your flux/redux actions\n    "
+  },
+  {
+    "projectName": "create-action",
+    "title": "\n      Helpers for creating FSA compatible actions\n    "
+  },
+  {
+    "projectName": "routex",
+    "title": "\n      Simple router for Redux universal applications. Can be used with React too.\n    "
+  },
+  {
+    "projectName": "immudux",
+    "title": "\n      Immutable Centered Redux\n    "
+  },
+  {
+    "projectName": "unirouter",
+    "title": "\n      A minimal routing system built with uniloc and redux\n    "
+  },
+  {
+    "projectName": "remotedev-app",
+    "title": "\n      Remote Redux DevTools web, electron and chrome app.\n    "
+  },
+  {
+    "projectName": "stardux",
+    "title": "\n      Functional DOM containers based on Starplate and Redux\n    "
+  },
+  {
+    "projectName": "point-one",
+    "title": "\n      Point One - Advanced Flux/Redux for React application\n    "
+  },
+  {
+    "projectName": "himesama",
+    "title": "\n      A yhavascript library for making user interfaces. Its a lot like react, except it doesnt need redux\n    "
+  },
+  {
+    "projectName": "multireducer",
+    "title": "\n      A utility to wrap many copies of a single Redux reducer into a single key-based reducer.\n    "
+  },
+  {
+    "projectName": "multireducer-adailey14",
+    "title": "\n      A utility to wrap many copies of a single Redux reducer into a single key-based reducer.\n    "
+  }
+,
+  {
+    "projectName": "redouter",
+    "title": "\n      redouter is a library of functions an opinion of how to integrate React, redux and react-router t...\n    "
+  },
+  {
+    "projectName": "declarative-timeout",
+    "title": "\n      Action creator for redux-effects-timeout\n    "
+  },
+  {
+    "projectName": "declarative-location",
+    "title": "\n      Action creator for redux-effects-location\n    "
+  },
+  {
+    "projectName": "create-reducer",
+    "title": "\n      Create reducer from object of action handlers, for use with redux.\n    "
+  },
+  {
+    "projectName": "ducts",
+    "title": "\n      A Flux implementation that's even more minimal than Redux.\n    "
+  },
+  {
+    "projectName": "rux",
+    "title": "\n      Reactive Observable Flux with hot reloading, inspired by redux\n    "
+  },
+  {
+    "projectName": "feathers-action-creators",
+    "title": "\n      redux action creators for feathers services\n    "
+  },
+  {
+    "projectName": "adrenaline",
+    "title": "\n      React bindings for Redux with Relay in mind\n    "
+  },
+  {
+    "projectName": "live-prompt",
+    "title": "\n      Simple console with history and redux data flow.\n    "
+  },
+  {
+    "projectName": "delcarative-timeout",
+    "title": "\n      Action creator for redux-effects-timeout\n    "
+  },
+  {
+    "projectName": "feathers-action-reducer",
+    "title": "\n      redux reducer for feathers service actions\n    "
+  },
+  {
+    "projectName": "generator-kyper-react",
+    "title": "\n      Generator for React/Redux projects that includes sub generators for Actions, Reducers, Components...\n    "
+  },
+  {
+    "projectName": "virtual-app",
+    "title": "\n      A wrapper around [virtual-dom](https://npmjs.com/virtual-dom), [virtual-raf](https://npmjs.com/vi...\n    "
+  },
+  {
+    "projectName": "react-tinymce-mention",
+    "title": "\n      @Mention functionality for TinyMCE, built with React and Redux.\n    "
+  },
+  {
+    "projectName": "object-path-immutable",
+    "title": "\n      Modify deep object properties without modifying the original object (immutability). Works great w...\n    "
+  },
+  {
+    "projectName": "crossbuilder",
+    "title": "\n      Building Chrome apps and cross-browser extensions with Redux and Webpack.\n    "
+  },
+  {
+    "projectName": "2-ways-binding-example",
+    "title": "\n      Example for 2ways-binding\n    "
+  },
+  {
+    "projectName": "black-lion",
+    "title": "\n      State handler for Arus projects\n    "
+  },
+  {
+    "projectName": "aioredux",
+    "title": "\n      Pythonic redux\n    "
+  },
+  {
+    "projectName": "ih-black-lion",
+    "title": "\n      State handler for Arus projects\n    "
+  },
+  {
+    "projectName": "flux-standard-action",
+    "title": "\n      A human-friendly standard for Flux action objects\n    "
+  },
+  {
+    "projectName": "geckoman",
+    "title": "\n      a gecko wandering on your screen\n    "
+  },
+  {
+    "projectName": "reschool",
+    "title": "\n      redux workshopper\n    "
+  },
+  {
+    "projectName": "rapt",
+    "title": "\n      Redux middleware for sync/async action transducers.\n    "
+  },
+  {
+    "projectName": "icedam",
+    "title": "\n      Freezes data in development -- typically for Flux->React\n    "
+  },
+  {
+    "projectName": "fsa-creator",
+    "title": "\n      Flux Standard Action creation with validation\n    "
+  },
+  {
+    "projectName": "deku",
+    "title": "\n      Render interfaces using pure functions and virtual DOM\n    "
+  },
+  {
+    "projectName": "symphony",
+    "title": "\n      Efficient change detection and async data flow for React/Redux applications.\n    "
+  },
+  {
+    "projectName": "ReduxKit",
+    "title": "\n      A Swift implementation of Redux.\n    "
+  },
+  {
+    "projectName": "generator-gulp-mg",
+    "title": "\n      A generator for developing static sites. Gulp, Pattern Lab, Sass, CoffeeScript, and an auto-reloa...\n    "
+  }
+,
+  {
+    "projectName": "mirror-creator",
+    "title": "\n      Another way to create an object with values equal to its key names\n    "
+  },
+  {
+    "projectName": "damda",
+    "title": "\n      State/actions container for Javascript client apps\n    "
+  },
+  {
+    "projectName": "urbanist",
+    "title": "\n      React and Redux utilities\n    "
+  },
+  {
+    "projectName": "quince",
+    "title": "\n      Redux middleware for queued actions\n    "
+  },
+  {
+    "projectName": "bind-effect",
+    "title": "\n      Bind to the result of an effectful action\n    "
+  },
+  {
+    "projectName": "scanux",
+    "title": "\n      Flux implementation with rxjs\n    "
+  },
+  {
+    "projectName": "react-display-name",
+    "title": "\n      utility to return a react components display name\n    "
+  },
+  {
+    "projectName": "simplequery",
+    "title": "\n      Simple javascript like format to get values out of dictionaries\n    "
+  },
+  {
+    "projectName": "data-state-setter",
+    "title": "\n      A simple utility to set the state for your data\n    "
+  },
+  {
+    "projectName": "mirror-maker",
+    "title": "\n      A simple tool to create an object with values equal to keys from an object or an array.\n    "
+  },
+  {
+    "projectName": "canonical-reducer-composition-validator",
+    "title": "\n      Library to validate data compliance with the Canonical Reducer Composition design pattern.\n    "
+  },
+  {
+    "projectName": "babel-plugin-auto-symbol-description",
+    "title": "\n      A Babel plugin to automatically set Symbol descriptions.\n    "
+  },
+  {
+    "projectName": "action-names",
+    "title": "\n      Standard actions names for Flux\n    "
+  },
+  {
+    "projectName": "react-blueprint-cli",
+    "title": "\n      React.js Redux Boilerplate\n    "
+  },
+  {
+    "projectName": "rehash",
+    "title": "\n      Some utilities for use with redux\n    "
+  },
+  {
+    "projectName": "babel-plugin-transform-pattern-matching",
+    "title": "\n      transform pattern mathing\n    "
+  },
+  {
+    "projectName": "slush-shockjs",
+    "title": "\n      Code generator for shockjs\n    "
+  },
+  {
+    "projectName": "simple-selectors",
+    "title": "\n      Simplified Selector Functions\n    "
+  },
+  {
+    "projectName": "re-notif",
+    "title": "\n      Redux & React based Notifications center\n    "
+  },
+  {
+    "projectName": "pouch-websocket-sync-example",
+    "title": "\n      Redux, PouchDB and Sync TodoMVC example\n    "
+  },
+  {
+    "projectName": "deux",
+    "title": "\n      Redux things\n    "
+  },
+  {
+    "projectName": "generator-assembly-line",
+    "title": "\n      A Yeoman generator for npm libraries compiled by Babel and packaged for the browser with Webpack\n    "
+  },
+  {
+    "projectName": "reduce-reducers",
+    "title": "\n      Reduce multiple reducers into a single reducer\n    "
+  },
+  {
+    "projectName": "flambeau",
+    "title": "\n      Lightweight flux library\n    "
+  },
+  {
+    "projectName": "react-blueprint",
+    "title": "\n      React.js Redux Boilerplate\n    "
+  },
+  {
+    "projectName": "revue",
+    "title": "\n      Redux binding for Vue.\n    "
+  },
+  {
+    "projectName": "fluxdux",
+    "title": "\n      Flux and Redux together\n    "
+  },
+  {
+    "projectName": "shetland",
+    "title": "\n      React and Redux components to manage a sidebar\n    "
+  },
+  {
+    "projectName": "lanai",
+    "title": "\n      React and Redux components for responsive layout\n    "
+  },
+  {
+    "projectName": "vdux",
+    "title": "\n      Stateless virtual dom &lt;-&gt; Redux\n    "
+  }
+,
+  {
+    "projectName": "faction",
+    "title": "\n      Utilities for simple, DRY flux actions\n    "
+  },
+  {
+    "projectName": "react-credit-card-thing",
+    "title": "\n      A React Credit Card Form\n    "
+  },
+  {
+    "projectName": "cf-devenv",
+    "title": "\n      calvinfroedge devenv, extracted from redux\n    "
+  },
+  {
+    "projectName": "react-immudux",
+    "title": "\n      react-redux made for Immutable js\n    "
+  },
+  {
+    "projectName": "generator-react-minimal",
+    "title": "\n      A minimal react/redux/webpack setup.\n    "
+  },
+  {
+    "projectName": "ngrx-store-fxck",
+    "title": "\n      RxJS powered Redux for Angular2 apps\n    "
+  },
+  {
+    "projectName": "fin-rectangle",
+    "title": "\n      polymer redux of the rectangles repo\n    "
+  },
+  {
+    "projectName": "subdivide",
+    "title": "\n      User defined UI Layout: Every pane can be subdivided and any widget assigned to any pane.\n    "
+  },
+  {
+    "projectName": "feathers-action-types",
+    "title": "\n      flux action types for feathers services\n    "
+  },
+  {
+    "projectName": "generator-react-jspm",
+    "title": "\n      A React/jspm Full Project generator, using Redux\n    "
+  },
+  {
+    "projectName": "reflux-create-reducer",
+    "title": "\n      Quickly create a redux reducer without switch\n    "
+  },
+  {
+    "projectName": "square-dance",
+    "title": "\n      Interactive React+Redux demo of a moving square\n    "
+  },
+  {
+    "projectName": "immutable-reducers",
+    "title": "\n      Create reducers for immutable data structures. Useful for redux.\n    "
+  },
+  {
+    "projectName": "reducer",
+    "title": "\n      Implementation-agnostic state reducers for Functional Flux.\n    "
+  },
+  {
+    "projectName": "dacho",
+    "title": "\n      Utility of generating key/value object with a prefixed value\n    "
+  },
+  {
+    "projectName": "retransmitter",
+    "title": "\n      Async-friendly stateful React containers\n    "
+  },
+  {
+    "projectName": "generator-muscle",
+    "title": "\n      Yeoman generator for cfp muscle project.\n    "
+  },
+  {
+    "projectName": "zenflux",
+    "title": "\n      Redux like flux implmentation for MeteorJS\n    "
+  },
+  {
+    "projectName": "react-json-tree",
+    "title": "\n      React JSON Viewer Component, Extracted from redux-devtools\n    "
+  },
+  {
+    "projectName": "babel-plugin-transform-pattern-mathching",
+    "title": "\n      transform pattern mathing\n    "
+  },
+  {
+    "projectName": "wiki-cb",
+    "title": "\n      Django wiki redux, maintained by Code Black\n    "
+  },
+  {
+    "projectName": "frieze",
+    "title": "\n      React and Redux components for handling flash messages\n    "
+  },
+  {
+    "projectName": "create-store",
+    "title": "\n      Create redux store from object of action handlers.\n    "
+  },
+  {
+    "projectName": "rictus",
+    "title": "\n      Redux middleware for promise-based resource requests\n    "
+  },
+  {
+    "projectName": "so-fetch",
+    "title": "\n      A whatwg fetch wrapper meant for redux dispatch \n    "
+  },
+  {
+    "projectName": "decca",
+    "title": "\n      Render interfaces using pure functions and virtual DOM, kinda\n    "
+  },
+  {
+    "projectName": "bouchon-samples",
+    "title": "\n      A set of API made with Bouchon, useful for mocking and testing.\n    "
+  },
+  {
+    "projectName": "flowery",
+    "title": "\n      Prettify the result from Facebook Flow type check tool, making it easier to read\n    "
+  },
+  {
+    "projectName": "lore-actions",
+    "title": "\n      Blueprints to reduce boilerplate for Redux actions\n    "
+  },
+  {
+    "projectName": "drug",
+    "title": "\n      Isomorphic web framework for React and Redux\n    "
+  }
+,
+  {
+    "projectName": "jquery-number",
+    "title": "\n      Easily format numbers for display use. Replace numbers inline in a document, or return a formatte...\n    "
+  },
+  {
+    "projectName": "slux",
+    "title": "\n      Server-side flux/redux inspired helpers\n    "
+  },
+  {
+    "projectName": "jah-compiler",
+    "title": "\n      simple coffee-script-redux organizer to compilations tasks\n    "
+  },
+  {
+    "projectName": "hut",
+    "title": "\n      A minimal framework for isomorphic apps with react and redux\n    "
+  },
+  {
+    "projectName": "zenchat-snippets",
+    "title": "\n      A collection of snippets for react-native, redux and ES6.\n    "
+  },
+  {
+    "projectName": "generator-flux-on-rails",
+    "title": "\n      Scaffolder of isomorphic/universal Flux app, backed by Rails API\n    "
+  },
+  {
+    "projectName": "formex",
+    "title": "\n      Simple form builder and validation library\n    "
+  },
+  {
+    "projectName": "flux-standard-action-json",
+    "title": "\n      Flux standard action JSON serialization\n    "
+  },
+  {
+    "projectName": "pi-weather-station",
+    "title": "\n      Weather Station on Raspberry PI\n    "
+  },
+  {
+    "projectName": "saga.js",
+    "title": "\n      Saga ===\n    "
+  },
+  {
+    "projectName": "react-chrome-extension-boilerplate",
+    "title": "\n      Boilerplate for Chrome extension React.js project\n    "
+  },
+  {
+    "projectName": "fluxette",
+    "title": "\n      Minimalist, functional, concise Flux.\n    "
+  },
+  {
+    "projectName": "pi",
+    "title": "\n      PI - Processing Instructions\n    "
+  },
+  {
+    "projectName": "moped",
+    "title": "\n      Express middleware for building universal JavaScript applications with React and Redux\n    "
+  },
+  {
+    "projectName": "github.com/olebedev/go-starter-kit/src/app",
+    "title": "\n      Golang Isomorphic React/Hot Reloadable/Redux/Css-Modules  Starter Kit\n    "
+  },
+  {
+    "projectName": "github.com/olebedev/go-starter-kit/src/app/server",
+    "title": "\n      Golang Isomorphic React/Hot Reloadable/Redux/Css-Modules  Starter Kit\n    "
+  },
+  {
+    "projectName": "eyebrow",
+    "title": "\n      Minimalistic JavaScript application architecture\n    "
+  },
+  {
+    "projectName": "playpause",
+    "title": "\n      audio playlist\n    "
+  },
+  {
+    "projectName": "lore-reducers",
+    "title": "\n      Library to reduce boilerplate for Redux reducers\n    "
+  },
+  {
+    "projectName": "Rect",
+    "title": "\n      A class for handling rectangle regions.\n    "
+  },
+  {
+    "projectName": "GFX",
+    "title": "\n      Basic Textured Quads and Lines using OpenGL.\n    "
+  },
+  {
+    "projectName": "react-realm",
+    "title": "\n      A total rip-off of the Elm architecture, in React\n    "
+  },
+  {
+    "projectName": "react-howler",
+    "title": "\n      A React.js wrapper for howler.js (audio player)\n    "
+  },
+  {
+    "projectName": "fastflux",
+    "title": "\n      Message driven reactive state management\n    "
+  },
+  {
+    "projectName": "not-deku",
+    "title": "\n      Render interfaces using pure functions and virtual DOM, kinda\n    "
+  },
+  {
+    "projectName": "lore-cli",
+    "title": "\n      Command Line Interface for Lore (A convention driven framework for React + Redux applications)\n    "
+  },
+  {
+    "projectName": "django-storages-folder",
+    "title": "\n      django-storages-redux extension to allow separate folders for media and static files\n    "
+  },
+  {
+    "projectName": "algebraic-type",
+    "title": "\n      Algebraic data types for JavaScript (which works with plain object) for use with Redux\n    "
+  },
+  {
+    "projectName": "chuckus-react-inline-grid",
+    "title": "\n      A predictable gird layout based on flexbox for React.\n    "
+  },
+  {
+    "projectName": "plait",
+    "title": "\n      A minimal JavaScript framework for building reactive web components\n    "
+  }
+,
+  {
+    "projectName": "bouchon",
+    "title": "\n      Efficient API mocking with cool libraries\n    "
+  },
+  {
+    "projectName": "fetch-data",
+    "title": "\n      \n    "
+  },
+  {
+    "projectName": "lore",
+    "title": "\n      Convention driven framework for React + Redux applications\n    "
+  },
+  {
+    "projectName": "hive-ui-api",
+    "title": "\n      REST API redux effects middleware for hive.js UI\n    "
+  },
+  {
+    "projectName": "bbc_redux",
+    "title": "\n      A gem to help navigate the BBC Redux API\n    "
+  },
+  {
+    "projectName": "hapi-react-starter-kit",
+    "title": "\n      A hapi React Starter kit with react-router, redux, react-transform\n    "
+  },
+  {
+    "projectName": "react-async-render",
+    "title": "\n      Using Redux to resolve React asynchronous rendering issue on server side\n    "
+  },
+  {
+    "projectName": "mainloop",
+    "title": "\n      A class which provides a fixed duration simulation loop with frame skipping when needed.\n    "
+  },
+  {
+    "projectName": "gluestick",
+    "title": "\n      [![npm package][npm-badge]][npm]\n    "
+  },
+  {
+    "projectName": "formtastic",
+    "title": "\n      (React, ES6, redux)-compatible form building and validation library\n    "
+  },
+  {
+    "projectName": "react-janus",
+    "title": "\n      React - Redux based wrapper for Janus \n    "
+  },
+  {
+    "projectName": "flux-reducitor",
+    "title": "\n      Manage Async/RestAPI acctions in redux infrastructure\n    "
+  },
+  {
+    "projectName": "kyutaekang:redux",
+    "title": "\n      Redux is a predictable state container for JavaScript apps.\n    "
+  },
+  {
+    "projectName": "reactjs-adminlte",
+    "title": "\n      plugins with React, Redux, and React-Router and custom css!\n    "
+  },
+  {
+    "projectName": "supersonic.js",
+    "title": "\n      A micro javascript framework built on React and Redux\n    "
+  },
+  {
+    "projectName": "supersonic",
+    "title": "\n      A micro javascript framework built on React and Redux\n    "
+  },
+  {
+    "projectName": "spa-starter-kit",
+    "title": "\n      Quick starter kit for booting up a NodeJS container with React, webpack, babel/ES2015, Redux, and...\n    "
+  },
+  {
+    "projectName": "react-cordova-boilerplate",
+    "title": "\n      TodoMVC example for react with development tools to build a cordova application\n    "
+  },
+  {
+    "projectName": "knock-knock-go",
+    "title": "\n      knock-knock-go is React a helper to simplify the process of loading asynchronous components by de...\n    "
+  },
+  {
+    "projectName": "jsocket",
+    "title": "\n      Python JSON Server & Client\n    "
+  },
+  {
+    "projectName": "generator-kintsugi",
+    "title": "\n      A Yeoman based generator for the Kintsugi application development toolkit.\n    "
+  },
+  {
+    "projectName": "lore-models-collections",
+    "title": "\n      Convention over configuration for CRUD actions against models and collections.\n    "
+  },
+  {
+    "projectName": "lore-models",
+    "title": "\n      Convention over configuration for CRUD actions against models and collections.\n    "
+  },
+  {
+    "projectName": "react-inline-grid",
+    "title": "\n      A predictable gird layout based on flexbox for React.\n    "
+  },
+  {
+    "projectName": "fluorine-lib",
+    "title": "\n      State Accumulation from a single stream of actions\n    "
+  },
+  {
+    "projectName": "dot-prop-immutable",
+    "title": "\n      Immutable version of dot-prop with some extensions\n    "
+  },
+  {
+    "projectName": "tsflux",
+    "title": "\n      Minimal Flux implementation inspired by Redux that works with TypeScript and ImmutableJS\n    "
+  },
+  {
+    "projectName": "refer",
+    "title": "\n      redux-like library for handling global state on functional style\n    "
+  },
+  {
+    "projectName": "vdux-local",
+    "title": "\n      Bind a vdux component to local state using redux-ephemeral\n    "
+  },
+  {
+    "projectName": "react-crownandcastles",
+    "title": "\n      > This project is full stack JavaScript. built on top of Facebook's > [React](https://facebook.gi...\n    "
+  }
+,
+  {
+    "projectName": "typeform-builder",
+    "title": "\n      A form builder for Typeform.io\n    "
+  },
+  {
+    "projectName": "nux",
+    "title": "\n      A push-based functional reactive web application framework\n    "
+  },
+  {
+    "projectName": "reducks",
+    "title": "\n      World famous duck recycler. Kinda like redux, but with fewer reducers and more ducks.\n    "
+  },
+  {
+    "projectName": "atm3-postprocessor-vue-template",
+    "title": "\n      A Node.js blog using react+redux+react-router\n    "
+  },
+  {
+    "projectName": "generator-fed",
+    "title": "\n      Yeoman generator for Frontend Development with Browserify and SASS Composer.\n    "
+  },
+  {
+    "projectName": "modern-boilerplate",
+    "title": "\n      A modern boilerplate with React, Webpack, Babel, Redux, Immutable inside\n    "
+  },
+  {
+    "projectName": "autoplay",
+    "title": "\n      Autoplay web app\n    "
+  },
+  {
+    "projectName": "mwb",
+    "title": "\n      Minimalistic webpack boilerplate\n    "
+  },
+  {
+    "projectName": "mg-parallax-slider",
+    "title": "\n      Create parallax slider for your website. It provide ultimate admin panel for slide customizaton. ...\n    "
+  },
+  {
+    "projectName": "react-redux.TypeScript.DefinitelyTyped",
+    "title": "\n      TypeScript Definitions (d.ts) for react-redux. Generated based off the DefinitelyTyped repository...\n    "
+  },
+  {
+    "projectName": "redux.TypeScript.DefinitelyTyped",
+    "title": "\n      TypeScript Definitions (d.ts) for redux. Generated based off the DefinitelyTyped repository [git ...\n    "
+  },
+  {
+    "projectName": "reactapp-cli",
+    "title": "\n      # React Client app Using following modules  ``` 1. react 2. redux 3. react-redux 4. redux-router ...\n    "
+  },
+  {
+    "projectName": "HashFoo.SqlServer.SpatialTypes",
+    "title": "\n      Microsoft.SqlServer.Types dependency.  Includes the unmanaged dependency SqlServerSpatial.dll in ...\n    "
+  },
+  {
+    "projectName": "autochimp",
+    "title": "\n      Keep website users and MailChimp mailing lists in sync and create campaigns from posts.\n    "
+  }
+]
